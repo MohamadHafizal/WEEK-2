@@ -14,7 +14,7 @@ public class LifeInCampus {
 		System.out.println("5.00pm : End Of Class And Asar Prayer");
 		System.out.println("6.00pm : Workout And Activities");
 		System.out.println("7.30pm : Preparing For Maghrib Prayer And Dinner");
-		System.out.println("9.00pm : Preparing For Isya Prayer And Doing Assignment");
+		System.out.println("9.00pm : Preparing For Isya Prayer And Doing Programming Work");
 		System.out.println("12.00am : Sleep");
 		
 
